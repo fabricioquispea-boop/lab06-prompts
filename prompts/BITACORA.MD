@@ -1,8 +1,4 @@
-# Bitacora de prompts
-
-- [Bitacora de prompts](prompts/BITACORA.md)
-
-Laboratorio 06: Fundamentos de Ingenieria de Prompts.
+Laboratorio 06: Fundamentos de Ingenieria de Prompts. 
 Herramienta de IA usada: (escribe aqui cual usaste)
 
 En el mismo chat, la IA pudo responder correctamente que la aplicación se llama TiendaTec y que utiliza Java Swing, porque esa información estaba disponible dentro de la conversación.
@@ -10,7 +6,6 @@ En el mismo chat, la IA pudo responder correctamente que la aplicación se llama
 En un chat nuevo, la IA no tenía inicialmente esa información porque la conversación anterior no formaba parte de su contexto.
 
 ## Ejercicio 2: Tokens y ventana de contexto
-
 |              Texto                 | Caracteres | Tokens |
 |	                                 |	          |	       |
 | Los estudiantes programan en Java. |     34     |   7    |
